@@ -1,0 +1,1 @@
+console.log(url.replaceAll('mahanant'))
